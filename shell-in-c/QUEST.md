@@ -1,0 +1,3 @@
+- [ ] Build relatively custom shell in C on my own.
+- [ ] Add Golang for testing (codecrafters)
+- [ ] Mark as done
